@@ -8,6 +8,12 @@ The script will autogenerate an agent name and random port for tibagent so you c
 
 All arguments are optional except the spec to start the agent.
 
+First download the script from [here](https://raw.githubusercontent.com/awakchau-tibco/setup-tibagent/master/setup-tibagent.sh "Download setup-tibagent.sh") and make it executable by running
+
+```bash
+chmod +x setup-tibagent.sh
+```
+
 ```bash
 ./setup-tibagent.sh --spec 5435:10.99.123.123:5432
 ```
