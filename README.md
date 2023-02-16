@@ -22,6 +22,6 @@ chmod +x setup-tibagent.sh
 
 | Flag (Short) | Flag (long) | Required | Description |
 |--|--|--|--|
-| -a | --access-key | No | default is 'key' |
+| -a | --access-key | No | default is 'key', pass 'system' if you want to use system access key |
 | -s | --secret-key | No | by default secret key is taken from clipboard |
 | -p | --spec | Yes | spec for the tibagent |
