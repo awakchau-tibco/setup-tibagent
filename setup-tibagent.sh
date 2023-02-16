@@ -2,7 +2,7 @@
 # Author: Abhijit Wakchaure <awakchau@tibco.com>
 
 # Default configs, please do not change
-VERSION="v1.0.0"
+VERSION="v1.1.0"
 PORT=7816
 DEFAULT_ACCESS_KEY="key"
 SECRET_KEY_FROM_CLIPBOARD=$(xclip -o -sel c)
